@@ -8,6 +8,10 @@ Assignment 1--
 1.3)Calculates the correlation between sulfate and nitrate for monitor locations where the number of completely observed 
 cases (on all variables) is greater than the threshold
 
+Assignment 2--
+
+Matrix inversion is usually a costly computation and there may be some benefit to caching the inverse of a matrix rather than computing it repeatedly
+
 Assigment 3--Dataset used::outcome-of-care-measures.csv
 
 3.1) Finding the best hospital in a state
