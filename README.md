@@ -9,6 +9,7 @@ Assignment 1--
 cases (on all variables) is greater than the threshold
 
 Assigment 3--Dataset used::outcome-of-care-measures.csv
+
 3.1) Finding the best hospital in a state
 3.2)Ranking hospitals by outcome in a state
 3.3)Ranking hospitals in all states
